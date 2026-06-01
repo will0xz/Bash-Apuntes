@@ -1,10 +1,13 @@
 **ls** - Una orden para la terminal, lo que hace es mostrar las carpetas y directorios de donde estas situado en tu maquina.
+
 ![697](/imagenes/ls.png)
 
 **cd** - Debe de ser usado con una carpeta y directorios que tengas en tu maquina.
+
 ![](/imagenes/cd.png)
 
 **pwd** - Al usarse en la terminal te mostrara el lugar donde estas situado.
+
 ![](/imagenes/pwd.png)
 
 **mkdir** - Debe de usarse con un nombre seguido del comando, creara una carpeta con dicho 

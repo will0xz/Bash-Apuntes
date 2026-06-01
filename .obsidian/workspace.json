@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ca8e085e1fbbcc0",
+            "id": "8c2479914c08665b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comandos basicos bash.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comandos basicos bash"
+              "title": "README"
             }
           }
         ]
@@ -183,7 +183,7 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "8ca8e085e1fbbcc0",
+  "active": "8c2479914c08665b",
   "lastOpenFiles": [
     "imagenes/-r.png",
     "imagenes/rm.png",
